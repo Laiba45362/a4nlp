@@ -7,7 +7,7 @@ This is a simple web application that demonstrates the capabilities of a custom-
 
 You can access the deployed web application using the following link:
 
-[Text Similarity Web Application](https://vlxrdb4caajgcxfdhd32u6.streamlit.app/)
+[Text Similarity Web Application](https://pbfvejpcdqbrayu9dk4ele.streamlit.app/)
 
 ## Description
 
