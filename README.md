@@ -1,5 +1,5 @@
-# a4_nlp
-# Text Similarity Web Application
+# a4_nlp_st125496
+# Text Similarity Web Application_by_Laiba_Muneer
 
 This is a simple web application that demonstrates the capabilities of a custom-trained sentence transformer model for Natural Language Inference (NLI).
 
